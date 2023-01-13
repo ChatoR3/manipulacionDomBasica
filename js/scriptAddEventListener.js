@@ -42,4 +42,4 @@ function sumarInputValues(event) {
 }
 Pero para que este evento funcione se debe de poner en el HTML al botón que sea tipo button
 */
-/*f*/
+/*df*/
